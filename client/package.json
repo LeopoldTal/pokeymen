@@ -1,0 +1,8 @@
+{
+	"name": "pokeymen-front",
+	"version": "0.1.0",
+	"description": "The men are pokey (client)",
+	"main": "index.js",
+	"author": "Adam & Leo",
+	"license": "MIT"
+}
